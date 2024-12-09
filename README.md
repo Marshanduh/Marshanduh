@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marshanda</h1>
 <h3 align="center">A couch potato programmer from somewhere on earth :D</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marshanduh" alt="marshanduh" /></a> </p>
 
 - 🔭 I’m currently working on **nothing**
 
