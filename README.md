@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Marshanda</h1>
 <h3 align="center">A couch potato programmer from somewhere on earth :D</h3>
 
